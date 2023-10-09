@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" style="background-color: black;">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CIAO, SONO VALERIO</title>
+</head>
+<body>
+    <H1 style="color: whitesmoke;">Mi presento...</H1>
+    <img src="me.jpg" alt=""
+      style="width: 150px;"> <h5 style="color: whitesmoke;">Questo in foto sono io :)</h5>
+    <p style="color: whitesmoke;">Ciao a tutti, mi chiamo <span style="background-color: rgb(11, 226, 54);"></style>Valerio Roggero</span> e sono un 32enne della provincia di Fermo nelle Marche. Attualmente lavoro come Credit Advisor presso un brooker ma ho comunque deciso di cambiare radicalmente e cimentarmi in qualcosa di totalmente diverso. La prima volta che mi sono interfacciato al web development è stata durante il mio primo stage. Si sa che ai tirocinanti fanno fare le fotocopie ma siccome era periodo di Covid mi hanno fatto creare un sito web per vendere i loro corsi di formazione. L’ho fatto usando Kartra quindi usando tutti asset già esistenti ma crearlo da zero mi ha dato comunque una grandissima soddisfazione che spero di ritrovare anche con il corso di Epicode. <span style="color:red;">Non vedo l'ora di iniziare le lezioni!!!</span></p>
+    
+<div style="background-color: yellow;">
+    <h3>Hobbies e interessi</h3>
+        <ul>
+             <li>calcio</li>
+             <li>basket</li>
+             <li>motociclismo su strada</li>
+             <li>film anni '80 e '90</li>
+             <li>dare fastidio ai miei 4 gatti</li>
+        </ul>
+    </div>
+<div style="background-color: yellow;">
+        <h3>Istruzione</h3>
+            <ul>
+                <li>Laurea magistrale in Global politics and economic relations</li>
+                <li>Laurea triennale in Relazioni internazionali</li>
+            </ul>
+</div>
+<div style="background-color: yellowgreen;">
+         <h3>Contatti, aggiungimi su...</h3>
+              <ul> 
+                <li><a href="https://www.linkedin.com/in/valerio-roggero-13698589/"> <h4>Linkedin</h4> </li>
+                <li><a href="https://www.instagram.com/valerioroggero/"> <h4>Instagram</h4></li>  
+              </ul>
+</div>
+</body>
+</html>
