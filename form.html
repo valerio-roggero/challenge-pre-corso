@@ -1,14 +1,29 @@
 <!DOCTYPE html>
-<html lang="en" style="background-color: rgb(247, 11, 58)">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Registrati</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Unbounded&display=swap');
+
+        div{margin: 5px;
+        }
+        body{background-image:url(https://e0.pxfuel.com/wallpapers/974/692/desktop-wallpaper-music-rainbow-music-music-themed-music-and-dance.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 100vh;
+            color: white;
+        }
+        body{font-family: 'Unbounded', sans-serif;
+    }
+    #terms{margin-top: 20px;}
+    </style>
 </head>
 <body>
     <h1>Compila il form per registrarti!</h1>
     <h4>Con ValeMusic avrai tutte le tue canzoni a portata di mano</h4>
-    <img src=https://t3.ftcdn.net/jpg/06/32/25/48/240_F_632254843_tbDPM5EV6LGbeLNyU9DJso03qeXeX3zK.jpg>
+   
     <form onsubmit="">
         <div>
         <input type="text" placeholder="nome">
@@ -31,7 +46,7 @@
             <label for="">Elettronica</label> <input type="checkbox">
             <input type="text" placeholder="altro">
         </div>
-        <div><label for="birthday">Ho preso visione e accetto termini e condizioni</label>
+        <div id="terms"><label for="birthday">Accetto termini e condizioni d'suo</label>
             <input type="radio">
         </div>
     </form>
